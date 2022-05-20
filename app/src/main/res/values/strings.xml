@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DnD Service</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="already_sent_dialog_box">Alert !<br/>
+                                You have already reported this…<br/>
+                                Do You Want to Report again ?</string>
+    <string name="records_table_heading">Name</string>
+    <string name="records_table_heading2">Reported on</string>
+</resources>
